@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://quietstrengthrecovery.co.uk/sitemap.xml
