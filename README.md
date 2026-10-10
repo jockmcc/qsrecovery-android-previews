@@ -1,5 +1,7 @@
 # QSRecovery - free apps and current downloads
 
+**Current official project links and app hosting map:** [OFFICIAL_LINKS.md](OFFICIAL_LINKS.md).
+
 I'm Chris Nugent. Quiet Strength Recovery supports personal recovery. Quiet Sisters Recovery supports partners, friends and family of all genders.
 
 **Website:** https://quietstrengthrecovery.co.uk/
