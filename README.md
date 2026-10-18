@@ -12,7 +12,7 @@ I'm Chris Nugent. Quiet Strength Recovery supports personal recovery. Quiet Sist
 | Quiet Strength Recovery | v1.10 (code 5) | https://quiet-strength-recovery.netlify.app/ | https://qsrecovery.itch.io/quiet-strength-recovery |
 | Quiet Sisters Recovery | v1.4 (code 5) | https://quiet-sisters-recovery.netlify.app/ | https://qsrecovery.itch.io/quiet-sisters-recovery |
 
-The signed APKs are attached to https://github.com/jockmcc/qsrecovery-android-previews/releases/tag/mobile-resources-2026-10-12 .
+The signed APKs are attached to https://github.com/jockmcc/qsrecovery-android-previews/releases/tag/support-resume-2026-10-18 .
 Their SHA-256 hashes are attached to the release in QSR-SHA256SUMS-2026-10-12.txt. Both are free for adults aged 18 and over. Physical Android device acceptance testing is still outstanding; these remain preview builds for use and feedback.
 
 The approved matching app logos are saved in branding/. The dated public website backup is in website/; the live website is the current source of downloads. These files contain the public website only, with no signing keys or private tester records.
