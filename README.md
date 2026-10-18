@@ -1,3 +1,5 @@
+Updated browser tools: https://quietstrengthrecovery.co.uk/downloads/ . Quiet Sisters Android v1.5 is current; Quiet Strength Android remains v1.10 while the Netlify update is blocked.
+
 # QSRecovery - free apps and current downloads
 
 **Current official project links and app hosting map:** [OFFICIAL_LINKS.md](OFFICIAL_LINKS.md).
